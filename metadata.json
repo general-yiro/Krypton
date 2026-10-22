@@ -1,0 +1,6 @@
+{
+  "name": "Krypton Vault - Zero-Knowledge Account Vault",
+  "description": "Mobile-first, zero-knowledge account management vault for bank credentials, virtual cards, encrypted PINs, and personal financial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
